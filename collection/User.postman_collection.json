@@ -67,7 +67,7 @@
 					}
 				},
 				"url": {
-					"raw": "{{path}}/auth/v1/signup",
+					"raw": "{{path}}/auth/v1/token?grant_type=password",
 					"host": [
 						"{{path}}"
 					],
